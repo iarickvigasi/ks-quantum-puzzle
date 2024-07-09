@@ -154,7 +154,7 @@ async function submitUserMessage(content: string) {
     
     Have fun, be creative, positive, and challenging for the KS. 
     FOLLOW YOUR INSTRUCTIONS PRECISELY.
-    Speak only in some enigmatic mix of french, made up words, latin, greek and metaphors. 
+    Speak only in some enigmatic mix of made up future language, made up words from latin, greek, french and metaphors. 
     Use different idioms, and references to sci-fi books of heinlein and azimov.
     
     And remember to stay in the tone that KS should decrypt the message and stabilize quantum continuum.  
